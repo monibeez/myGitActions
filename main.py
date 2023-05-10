@@ -1,7 +1,7 @@
 def hello();
   print("Hello!!")
   
-  def bye();
+def bye();
   print("BYEE!!")
   
-  print(hello());  
+ print(hello());  
